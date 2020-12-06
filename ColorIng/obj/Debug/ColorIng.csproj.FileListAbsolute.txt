@@ -1,0 +1,10 @@
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\bin\Debug\ColorIng.exe.config
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\bin\Debug\ColorIng.exe
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\bin\Debug\ColorIng.pdb
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\obj\Debug\ColorIng.csprojAssemblyReference.cache
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\obj\Debug\ColorIng.frmMain.resources
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\obj\Debug\ColorIng.Properties.Resources.resources
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\obj\Debug\ColorIng.csproj.GenerateResource.cache
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\obj\Debug\ColorIng.csproj.CoreCompileInputs.cache
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\obj\Debug\ColorIng.exe
+C:\Users\Davor\Desktop\PROJEKTI\ColorIng\obj\Debug\ColorIng.pdb
